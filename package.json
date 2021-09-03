@@ -20,7 +20,7 @@
     "axios": "^0.19.2",
     "date-fns": "^2.13.0",
     "firebase": "^7.8.2",
-    "immer": "^6.0.3",
+    "immer": "^9.0.6",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-flash-message": "^0.1.15",
